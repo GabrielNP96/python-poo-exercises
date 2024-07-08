@@ -5,7 +5,7 @@ Este repositório contém exercícios de Programação Orientada a Objetos (POO)
 
 ### 01 - Conta Bancária
 
-Crie uma classe ContaBancaria que modele uma conta bancária simples. A classe deve ter atributos para o nome do titular, saldo da conta e limite de saque. Implemente métodos para:
+Crie uma classe ContaBancaria que modele uma conta bancária simples. A classe deve ter atributos para o nome do titular, saldo da conta Implemente métodos para:
 
 - **Depositar**: Receber um valor como parâmetro e atualizar o saldo da conta
 - **Sacar**: Receber um valor como parâmetro, verificar se há saldo suficiente e limite disponível, e atualizar o saldo caso seja possível.

@@ -1,6 +1,5 @@
-from CLI_interface import cli_interface
+from model.Angency import Agency
+from model.Bank import Bank
 
-def __main__():
-    cli_interface()
-if __name__ == '__main__':
-    __main__()
+silveirinha_bank = Agency('Silveirinha', 'gothan', '005')
+print(dir(silveirinha_bank))

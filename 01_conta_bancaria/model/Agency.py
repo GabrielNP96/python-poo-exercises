@@ -1,4 +1,4 @@
-from .Bank import Bank
+from Bank import Bank
 
 class Agency(Bank):
     def __init__(self,name, address, number):
